@@ -1,11 +1,11 @@
-# Metodologia de trabajo ágil basada en pelea de gallos
+# Metodología de trabajo ágil basada en pelea de gallos
 
 by Museumis Abril 2024
 
 
 !(/image/imagen chuty y benet y ")
 
-Esta metodologia de trabajo ágil trata de realizar las conocidas batallas de gallos en el ámbito del desarrollo de software. 
+Esta metodología de trabajo ágil trata de realizar las conocidas batallas de gallos en el ámbito del desarrollo de software. 
 
 
 
@@ -70,19 +70,19 @@ Se puede participar uno contra uno o equipos rivalizados.
 
 
 ## Procedimiento
-1. Minuto de presentacion: En este minuto los contrincantes **escribiran en privado un pósit de al menos 6 barras** relacionadas con el pedido del cliente.
-2. Easymode:  Cuando se finalice la escritura de los pósit se creará un pósit con las mejores barras de ambos pósit. En este punto se decide el piloto que se va a desarrollar. Las ideas elejidas se desarrollaran en las siguientes pruebas.
+1. Minuto de presentación: En este minuto los contrincantes **escribiran en privado un pósit de al menos 6 barras** relacionadas con el pedido del cliente.
+2. Easymode:  Cuando se finalice la escritura de los pósit se creará un pósit con las mejores barras de ambos pósit. En este punto se decide el piloto que se va a desarrollar. Las ideas elegidas se desarrollarán en las siguientes pruebas.
 3. Hardmode: Desarrollo de cada barra en Pósits. Se deberá escribir todas las barras del piloto seleccionado en varios pósit.
-4. Capela: Testeo del piloto. Saber si es viable. En caso de que el piloto no sea viable se dará por finalizada de batalla, en caso contrarió se continua.
+4. Capela: Testeo del piloto. Saber si es viable. En caso de que el piloto no sea viable se dará por finalizada de batalla, en caso contrarió se continúa.
 5. A sangre: Se deberá ampliar cada pósit escrito en el hardmode.
 6. Temática: Ampliación de la barra Desarrollo de los sistemas. En esta fase deberá ampliar al máximo los pósit relacionados con la barra Desarrollo de sistemas de software. 
 7. Valoración: Entrega de la documentación, que serán todos los pósit, y el primer piloto.
 
 
 ## Batalla de **Ejemplo** Lima 2024
-El club de fúlbol de Mérida nos ha pedido desarrollar una web para realizar las ventas onlines de entradas. Realizaré un ejemplo de como debería ser esta batalla
+El club de fútbol de Mérida nos ha pedido desarrollar una web para realizar las ventas onlines de entradas. Realizaré un ejemplo de como debería ser esta batalla
 
-Jueces djs y publico
+Jueces, djs y público
 
 
 1. Minuto de presentacion: 
