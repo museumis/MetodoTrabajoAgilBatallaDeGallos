@@ -9,29 +9,29 @@ Esta metodología de trabajo ágil trata de realizar las conocidas batallas de g
 
 
 ## Minuto de presentación
-Estamos descubriendo formas mejores de desarrollar software
-tanto por nuestra propia experiencia como ayudando a terceros. 
-A través de este trabajo hemos aprendido a valorar:
+Estamos descubriendo formas mejores de desarrollar software  
+tanto por nuestra propia experiencia como ayudando a terceros  
+A través de este trabajo hemos aprendido a valorar:  
 
-Individuos e interacciones sobre procesos y herramientas
-Software funcionando sobre documentación extensiva
-Colaboración con el cliente sobre negociación contractual
-Respuesta ante el cambio sobre seguir un plan
+Individuos e interacciones sobre procesos y herramientas  
+Software funcionando sobre documentación extensiva  
+Colaboración con el cliente sobre negociación contractual  
+Respuesta ante el cambio sobre seguir un plan  
 
-Esto es, aunque valoramos los elementos de la derecha,
+Esto es, aunque valoramos los elementos de la derecha,  
 valoramos más los de la izquierda.
 
 ## Batallas de gallos
-Si nunca has visto una batalla de gallos te recomiento esta [Final FMS 2019 Chuty vs Bnet]([https://youtu.be/mpZT9e8fcqc?si=dceyjkB5nqlFyO69)]. Deberás conocer el nundo de las batallas para entender perfectamente esta metodología ágil de trabajo.
+Si nunca has visto una batalla de gallos te recomiento esta [Final FMS 2019 Chuty vs Bnet][https://youtu.be/mpZT9e8fcqc?si=dceyjkB5nqlFyO69]. Deberás conocer el nundo de las batallas para entender perfectamente esta metodología ágil de trabajo.
 
 
 ## Finalidad
 
-Creación ágil de Pilotos de software .
+* Creación ágil de Pilotos de software.
 
-Ampliación de pilotos hasta la fase de desarrollo.
+* Ampliación de pilotos hasta la fase de desarrollo.
 
-Lluvia de ideas para el desarrollo de software 
+* Lluvia de ideas para el desarrollo de software.
 
 
 ## Diccionario
@@ -48,6 +48,9 @@ Cada barra deberá ser mejorada o ampliada por el participante que reciba el pó
 Se puede participar uno contra uno o equipos rivalizados.
 
 ## Barras
+
+![](https://raw.githubusercontent.com/museumis/MetodoTrabajoAgilBatallaDeGallos/main/Imagenes/03Barras.png)
+
 1. Infraestructura: Donde se puede realizar el piloto. En que lugar.
 2. Sistemas: Que recursos se necesitan para realizar el piloto. 
 3. Financiación: Cuánto dinero se necesita.
@@ -67,50 +70,48 @@ Se puede participar uno contra uno o equipos rivalizados.
 12. Tiempo:  Tiempo necesario para el desarrollo del proyecto del piloto
 13. Piloto: Primera evidencia funcional del piloto
 
-![](https://raw.githubusercontent.com/museumis/MetodoTrabajoAgilBatallaDeGallos/main/Imagenes/03Barras.png)
 
 ## Procedimiento
-1. Minuto de presentación: En este minuto los contrincantes **escribiran en privado un pósit de al menos 6 barras** relacionadas con el pedido del cliente.
-2. Easymode:  Cuando se finalice la escritura de los pósit se creará un pósit con las mejores barras de ambos pósit. En este punto se decide el piloto que se va a desarrollar. Las ideas elegidas se desarrollarán en las siguientes pruebas.
-3. Hardmode: Desarrollo de cada barra en Pósits. Se deberá escribir todas las barras del piloto seleccionado en varios pósit.
-4. Capela: Testeo del piloto. Saber si es viable. En caso de que el piloto no sea viable se dará por finalizada de batalla, en caso contrarió se continúa.
-5. A sangre: Se deberá ampliar cada pósit escrito en el hardmode.
-6. Temática: Ampliación de la barra Desarrollo de los sistemas. En esta fase deberá ampliar al máximo los pósit relacionados con la barra Desarrollo de sistemas de software. 
-7. Valoración: Entrega de la documentación, que serán todos los pósit, y el primer piloto.
+1. **Minuto de presentación**: En este minuto los contrincantes **escribiran en privado un pósit de al menos 6 barras** relacionadas con el pedido del cliente.
+2. **Easymode**:  Cuando se finalice la escritura de los pósit se creará un pósit con las mejores barras de ambos pósit. En este punto se decide el piloto que se va a desarrollar. Las ideas elegidas se desarrollarán en las siguientes pruebas.
+3. **Hardmode**: Desarrollo de cada barra en Pósits. Se deberá escribir todas las barras del piloto seleccionado en varios pósit.
+4. **Capela**: Testeo del piloto. Saber si es viable. En caso de que el piloto no sea viable se dará por finalizada de batalla, en caso contrarió se continúa.
+5. **A sangre**: Se deberá ampliar cada pósit escrito en el hardmode.
+6. **Temática**: Ampliación de la barra Desarrollo de los sistemas. En esta fase deberá ampliar al máximo los pósit relacionados con la barra Desarrollo de sistemas de software. 
+7. **Valoración**: Entrega de la documentación, que serán todos los pósit, y el primer piloto.
 
 
 ## Batalla de **Ejemplo** Lima 2024
-**El club de fútbol de Mérida nos ha pedido desarrollar una web para realizar las ventas onlines de entradas. Realizaré un ejemplo de como debería ser esta batalla**
+_**El club de fútbol de Mérida nos ha pedido desarrollar una web para realizar las ventas onlines de entradas. Realizaré un ejemplo de como debería ser esta batalla**_
 
-Jueces, djs y público
+**Jueces, djs y público**
 ![](https://raw.githubusercontent.com/museumis/MetodoTrabajoAgilBatallaDeGallos/main/Imagenes/02entorno.png)
 
-1. Minuto de presentación: En este minuto los contrincantes **escribiran en privado un pósit de al menos 6 barras** relacionadas con el pedido del cliente.
-
+1. Minuto de presentación: En este minuto los contrincantes **escribiran en privado un pósit de al menos 6 barras** relacionadas con el pedido del cliente.  
 
 | Equipo uno  | Equipo dos |
 | ------------- |:-------------:|
-| You may be using     | You may be using      |
 | ![](https://raw.githubusercontent.com/museumis/MetodoTrabajoAgilBatallaDeGallos/main/Imagenes/04Presentacion01.png) | ![](https://raw.githubusercontent.com/museumis/MetodoTrabajoAgilBatallaDeGallos/main/Imagenes/05Presentacion02.png)
 
 
-2. Easymode:  Cuando se finalice la escritura de los pósit se creará un pósit con las mejores barras de ambos pósit. En este punto se decide el piloto que se va a desarrollar. Las ideas elegidas se desarrollarán en las siguientes pruebas.
-![](https://raw.githubusercontent.com/museumis/MetodoTrabajoAgilBatallaDeGallos/main/Imagenes/06EasyMode.png)
+2. Easymode:  Cuando se finalice la escritura de los pósit se creará un pósit con las mejores barras de ambos pósit. En este punto se decide el piloto que se va a desarrollar. Las ideas elegidas se desarrollarán en las siguientes pruebas.    
+
+  ![](https://raw.githubusercontent.com/museumis/MetodoTrabajoAgilBatallaDeGallos/main/Imagenes/06EasyMode.png)
 
 
-3. Hardmode: Desarrollo de cada barra en Pósits. Se deberá escribir todas las barras del piloto seleccionado en varios pósit.
+3. Hardmode: Desarrollo de cada barra en Pósits. Se deberá escribir todas las barras del piloto seleccionado en varios pósit.  
 ![](https://raw.githubusercontent.com/museumis/MetodoTrabajoAgilBatallaDeGallos/main/Imagenes/07HardMode.png)
 
-4. Capela: Testeo del piloto. Saber si es viable. En caso de que el piloto no sea viable se dará por finalizada de batalla, en caso contrarió se continúa.
+4. Capela: Testeo del piloto. Saber si es viable. En caso de que el piloto no sea viable se dará por finalizada de batalla, en caso contrarió se continúa.    
 _Proyecto más que viable. Una empresa con trabajadores puede realizarlo._
  
-5. A sangre: Se deberá ampliar cada pósit escrito en el hardmode.
+5. A sangre: Se deberá ampliar cada pósit escrito en el hardmode.  
 ![](https://raw.githubusercontent.com/museumis/MetodoTrabajoAgilBatallaDeGallos/main/Imagenes/08ASangre.png)
  
-6. Temática: Ampliación de la barra Desarrollo de los sistemas. En esta fase deberá ampliar al máximo los pósit relacionados con la barra Desarrollo de sistemas de software.
+6. Temática: Ampliación de la barra Desarrollo de los sistemas. En esta fase deberá ampliar al máximo los pósit relacionados con la barra Desarrollo de sistemas de software.  
 ![](https://raw.githubusercontent.com/museumis/MetodoTrabajoAgilBatallaDeGallos/main/Imagenes/09Tematica.png)
  
-7. Valoración: Entrega de la documentación, que serán todos los pósit, y el primer piloto.
+7. Valoración: Entrega de la documentación, que serán todos los pósit, y el primer piloto.  
 ![](https://raw.githubusercontent.com/museumis/MetodoTrabajoAgilBatallaDeGallos/main/Imagenes/10Valoración.png)
 
 
