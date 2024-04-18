@@ -10,7 +10,7 @@ Esta metodología de trabajo ágil trata de realizar las conocidas batallas de g
 
 ## Resumen del texto mediate IA
 >>
->La metodología de trabajo ágil basada en pelea de gallos propone una forma dinámica y creativa de abordar el desarrollo de software, tomando como referencia las conocidas batallas de gallos. Esta técnica fomenta la colaboración, la innovación y la >agilidad en la creación de proyectos.    
+>La metodología de trabajo ágil basada en pelea de gallos propone una forma dinámica y creativa de abordar el desarrollo de software, tomando como referencia las conocidas batallas de gallos. Esta técnica fomenta la colaboración, la innovación y la agilidad en la creación de proyectos.    
 >Introducción
 >
 >Batallas de gallos: Se utilizan como analogía para expresar ideas y debatir sobre los aspectos necesarios para la creación de un piloto de software.  
@@ -22,7 +22,7 @@ Esta metodología de trabajo ágil trata de realizar las conocidas batallas de g
 >
 >Ejemplo práctico  
 >
->Se presenta un ejemplo de cómo se llevaría a cabo una batalla de gallos para desarrollar una web de ventas de entradas para un club de fútbol en Mérida. Se muestran imágenes que ilustran cada etapa del proceso, desde la presentación inicial hasta la >entrega de la documentación y el piloto final.  
+>Se presenta un ejemplo de cómo se llevaría a cabo una batalla de gallos para desarrollar una web de ventas de entradas para un club de fútbol en Mérida. Se muestran imágenes que ilustran cada etapa del proceso, desde la presentación inicial hasta la entrega de la documentación y el piloto final.  
 >
 >Con esta metodología, se promueve la colaboración, la creatividad y la eficiencia en el desarrollo de proyectos de software, utilizando una dinámica inspirada en las batallas de gallos para generar ideas y tomar decisiones de manera ágil y efectiva.  
 >>
