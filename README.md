@@ -84,7 +84,7 @@ _**El club de fútbol de Mérida nos ha pedido desarrollar una web para realizar
 **Jueces, djs y público**
 ![](https://raw.githubusercontent.com/museumis/MetodoTrabajoAgilBatallaDeGallos/main/Imagenes/02entorno.png)
 
-1. **Minuto de presentación**: En este minuto los contrincantes **escribiran en privado un pósit de al menos 6 barras** relacionadas con el pedido del cliente.  
+1.  **Minuto de presentación**: En este minuto los contrincantes **escribiran en privado un pósit con al menos 6 componentes de las futuras barras**. Por ejemplo un posit que hable de tiempo, herramientas, sistemas de barras, despligue, test, financiación, etc  
 
 | Equipo uno  | Equipo dos |
 | ------------- |:-------------:|
