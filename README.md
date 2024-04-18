@@ -74,7 +74,7 @@ Deberás conocer el mundo de las batallas para entender perfectamente esta metod
 3. **Hardmode**: Desarrollo de cada barra en Pósits. Se deberá escribir todas las barras del piloto seleccionado en varios pósit.
 4. **Capela**: Testeo del piloto. Saber si es viable. En caso de que el piloto no sea viable se dará por finalizada de batalla, en caso contrarió se continúa.
 5. **A sangre**: Se deberá ampliar cada pósit escrito en el hardmode.
-6. **Temática**: Ampliación de la barra Desarrollo de los sistemas. En esta fase deberá ampliar al máximo los pósit relacionados con la barra Desarrollo de sistemas de software. 
+6. **Temática**: Ampliación de la barra Desarrollo de los sistemas. En esta fase deberá ampliar al máximo los pósit relacionados con la barra Desarrollo de sistemas de software. Se puede hacer tematica de cualquier barra.
 7. **Valoración**: Entrega de la documentación, que serán todos los pósit, y el primer piloto.
 
 
