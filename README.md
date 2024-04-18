@@ -37,7 +37,7 @@ Deberás conocer el mundo de las batallas para entender perfectamente esta metod
 *  Un **piloto** es el primer producto y documentación funcional que se le puede entregar a un cliente.
 *  Una **barra** es una frase rimada o un pósit en esta metodología ágil. Dentro de esta metodología ágil existirán temas que compondrán cada barra. Por ejemplo barras de sistemas, barras de tiempo, barras de herramientas, etc.
 *  **Frystailers o gallos** son las personas que participan en las peleas de gallos.
-*  **Compases** tiempo que dura la composiciónd de una barra  
+*  **Compases** tiempo que dura la composición de una barra  
 
 
 ## Reglas
@@ -69,7 +69,7 @@ Deberás conocer el mundo de las batallas para entender perfectamente esta metod
 
 
 ## Procedimiento
-1. **Minuto de presentación**: En este minuto los contrincantes **escribiran en privado un pósit de al menos 6 barras** relacionadas con el pedido del cliente.
+1. **Minuto de presentación**: En este minuto los contrincantes **escribiran en privado un pósit con al menos 6 componentes de las futuras barras**. Por ejemplo un posit que hable de tiempo, herramientas, sistemas de barras, despligue, test, financiación, etc
 2. **Easymode**:  Cuando se finalice la escritura de los pósit se creará un pósit con las mejores barras de ambos pósit. En este punto se decide el piloto que se va a desarrollar. Las ideas elegidas se desarrollarán en las siguientes pruebas.
 3. **Hardmode**: Desarrollo de cada barra en Pósits. Se deberá escribir todas las barras del piloto seleccionado en varios pósit.
 4. **Capela**: Testeo del piloto. Saber si es viable. En caso de que el piloto no sea viable se dará por finalizada de batalla, en caso contrarió se continúa.
