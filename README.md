@@ -10,21 +10,21 @@ Esta metodología de trabajo ágil trata de realizar las conocidas batallas de g
 
 ## Resumen del texto mediate IA
 >>
->La metodología de trabajo ágil basada en pelea de gallos propone una forma dinámica y creativa de abordar el desarrollo de software, tomando como referencia las conocidas batallas de gallos. Esta técnica fomenta la colaboración, la innovación y la >agilidad en la creación de proyectos.
+>La metodología de trabajo ágil basada en pelea de gallos propone una forma dinámica y creativa de abordar el desarrollo de software, tomando como referencia las conocidas batallas de gallos. Esta técnica fomenta la colaboración, la innovación y la >agilidad en la creación de proyectos.    
 >Introducción
 >
->Batallas de gallos: Se utilizan como analogía para expresar ideas y debatir sobre los aspectos necesarios para la creación de un piloto de software.
->Finalidad: Se busca crear pilotos de software de manera ágil, ampliarlos hasta la fase de desarrollo y generar una lluvia de ideas para el desarrollo del software.
->Diccionario: Se definen términos clave como piloto, barra, frystailers (gallos) y compases para comprender mejor el proceso.
->Reglas: Se establecen las pautas para la participación, incluyendo la expresión de ideas a través de barras escritas en pósits y la ampliación colaborativa de las mismas.
->Barras: Se detallan los temas clave que componen las barras, abarcando aspectos como infraestructura, sistemas, financiación, metodología de trabajo, entre otros.
->Procedimiento: Se describe paso a paso cómo se lleva a cabo una batalla de gallos, desde la presentación inicial hasta la entrega final de la documentación y el piloto.
+>Batallas de gallos: Se utilizan como analogía para expresar ideas y debatir sobre los aspectos necesarios para la creación de un piloto de software.  
+>Finalidad: Se busca crear pilotos de software de manera ágil, ampliarlos hasta la fase de desarrollo y generar una lluvia de ideas para el desarrollo del software.  
+>Diccionario: Se definen términos clave como piloto, barra, frystailers (gallos) y compases para comprender mejor el proceso.  
+>Reglas: Se establecen las pautas para la participación, incluyendo la expresión de ideas a través de barras escritas en pósits y la ampliación colaborativa de las mismas.  
+>Barras: Se detallan los temas clave que componen las barras, abarcando aspectos como infraestructura, sistemas, financiación, metodología de trabajo, entre otros.  
+>Procedimiento: Se describe paso a paso cómo se lleva a cabo una batalla de gallos, desde la presentación inicial hasta la entrega final de la documentación y el piloto.  
 >
->Ejemplo práctico
+>Ejemplo práctico  
 >
->Se presenta un ejemplo de cómo se llevaría a cabo una batalla de gallos para desarrollar una web de ventas de entradas para un club de fútbol en Mérida. Se muestran imágenes que ilustran cada etapa del proceso, desde la presentación inicial hasta la >entrega de la documentación y el piloto final.
+>Se presenta un ejemplo de cómo se llevaría a cabo una batalla de gallos para desarrollar una web de ventas de entradas para un club de fútbol en Mérida. Se muestran imágenes que ilustran cada etapa del proceso, desde la presentación inicial hasta la >entrega de la documentación y el piloto final.  
 >
->Con esta metodología, se promueve la colaboración, la creatividad y la eficiencia en el desarrollo de proyectos de software, utilizando una dinámica inspirada en las batallas de gallos para generar ideas y tomar decisiones de manera ágil y efectiva.
+>Con esta metodología, se promueve la colaboración, la creatividad y la eficiencia en el desarrollo de proyectos de software, utilizando una dinámica inspirada en las batallas de gallos para generar ideas y tomar decisiones de manera ágil y efectiva.  
 >>
 ## Minuto de presentación
 Estamos descubriendo formas mejores de desarrollar software  
